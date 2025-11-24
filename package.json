@@ -1,0 +1,12 @@
+{
+  "name": "baitaptuan11",
+  "version": "1.0.0",
+  "description": "<img width=\"1446\" height=\"664\" alt=\"image\" src=\"https://github.com/user-attachments/assets/47e43428-7585-4041-96fa-d7c4f8f3fa61\" />",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
